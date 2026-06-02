@@ -1,0 +1,2 @@
+Ideas:
+- For EDA, for each histogram plot with fill nby attrition, have the option to switch between counts and normalized
